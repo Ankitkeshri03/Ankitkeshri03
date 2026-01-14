@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Web development projects, AI-based apps, and backend systems using Java & Spring Boot.<br><br>👯 I’m looking to collaborate on:<br>Open-source projects, web apps, and AI-powered tools.<br><br>🤝 I’m looking for help with:<br>Advanced backend architecture, system design, and real-world project scaling.<br><br>🌱 I’m currently learning:<br>React.js, Flutter, DSA, Spring Boot, and Machine Learning basics.<br><br>💬 Ask me about:<br>Java, DSA, Web Development, GitHub projects, or how to start coding.<br><br>⚡ Fun fact:<br>I’m an introvert, but once I get comfortable, I become super talkative 😄
+🔭 I’m currently working on:<br>Web development projects, AI-based apps, and backend systems using Java & Spring Boot.<br><br>👯 I’m looking to collaborate on:<br>Open-source projects, web apps, and AI-powered tools.<br><br>🤝 I’m looking for help with:<br>Advanced backend architecture, system design, and real-world project scaling.<br><br>🌱 I’m currently learning:<br>React.js, Flutter, Spring Boot.<br><br>💬 Ask me about:<br>Java, DSA, Web Development, GitHub projects.<br><br>⚡ Fun fact:<br>I’m an introvert, but once I get comfortable, I become super talkative 😄
 
 
 ## 🌐 Socials:
