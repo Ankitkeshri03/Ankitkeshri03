@@ -50,11 +50,6 @@
 
 ---
 
-### 📌 Pinned / Featured Project
-
-<a href="https://github.com/Ankitkeshri03/EventSphere">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankitkeshri03&repo=EventSphere&theme=dark&hide_border=false" />
-</a>
 
 ---
 
@@ -70,7 +65,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitkeshri03&theme=react-dark&hide_border=false" />
+  <img src="https://raw.githubusercontent.com/Ankitkeshri03/Ankitkeshri03/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
 </p>
 
 ---
