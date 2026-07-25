@@ -50,11 +50,7 @@
 
 ---
 
-### 📌 Pinned / Featured Project
 
-<a href="https://github.com/Ankitkeshri03/EventSphere">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankitkeshri03&repo=EventSphere&theme=dark&hide_border=false" />
-</a>
 
 ---
 
