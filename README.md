@@ -58,23 +58,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ankitkeshri03&theme=darkhub&no-frame=true&row=1&column=7" />
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ankitkeshri03&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitkeshri03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ankitkeshri03&theme=dark&hide_border=false" />
-</p>
-
 ---
 
 ### 🌐 Connect with me
