@@ -9,7 +9,6 @@
 
 ### 🔭 What I'm building right now
 **EventSphere** — a full-stack event management & networking platform (React + Spring Boot + Spring AI), with JWT auth, PostgreSQL, Docker, and real-time features currently in progress.
-🔗 [Check it out →](https://github.com/Ankitkeshri03/EventSphere)
 
 ### 💫 About me
 
