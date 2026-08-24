@@ -61,8 +61,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Ankitkeshri03&icon=0&color=0" alt="visitor count"/>
-</p>
+
 
 <p align="center"><i>⭐️ From <a href="https://github.com/Ankitkeshri03">Ankit Keshri</a> — building one commit at a time.</i></p>
